@@ -1,7 +1,7 @@
 <?php
 
 namespace CountryCode;
-
+use Exception;
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
@@ -91,7 +91,8 @@ class CountryCode
     private function addMno($countryPrefix, $mnoPrefix, $mnoName)
     {
         if (!array_key_exists($countryPrefix, $this->codes)) {
-            throw new Exception("country prefix " . $countryPrefix . " does not exist!");
+        	return;
+            //throw new Exception("country prefix " . $countryPrefix . " does not exist!");
         }
         $arr = $this->codes[$countryPrefix] + array($mnoPrefix => $mnoName);
         $this->codes[$countryPrefix] = $arr;
