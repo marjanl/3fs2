@@ -1,0 +1,1572 @@
+995	67	Aquafon
+995	68	A-Mobile
+995	88	A-Mobile
+93	1	AWCC
+93	20	Roshan
+93	40	MTN
+93	50	Etisalat
+93	55	WASEL
+93	80	Salaam
+93	88	Salaam
+355	1	AMC
+355	2	Vodafone
+355	3	Eagle Mobile
+355	4	Plus Communication
+213	1	Mobilis
+213	2	Djezzy
+213	3	Ooredoo
+1 684	11	Bluesky
+376	3	Mobiland
+244	2	UNITEL
+244	4	MOVICEL
+1 264	840	LIME
+1 268	30	APUA
+1 268	50	Digicel
+1 268	920	LIME
+54	10	Movistar
+54	20	Nextel
+54	40	Globalstar
+54	70	Movistar
+54	310	Claro
+54	320	Claro
+54	330	Claro
+54	340	Personal
+54	350	PORT-HABLE
+374	1	Beeline
+374	4	Karabakh Telecom
+374	5	VivaCell-MTS
+374	10	Orange
+297	1	SETAR
+297	2	Digicel
+61	1	Telstra
+61	2	Optus
+61	3	Vodafone
+61	5	Ozitel
+61	6	3
+61	7	Vodafone
+61	8	One.Tel
+61	9	Airnet
+61	10	Norfolk Is.
+61	11	Telstra
+61	12	3
+61	13	Railcorp
+61	14	AAPT
+61	15	3GIS
+61	16	VicTrack
+61	18	Pactel
+61	19	Lycamobile
+61	38	Crazy John's
+61	62	NBN
+61	68	NBN
+61	71	Telstra
+61	72	Telstra
+61	88	Localstar Holding Pty. Ltd.
+61	90	Optus
+61	99	One.Tel
+43	1	A1 TA
+43	3	T-Mobile AT
+43	4	T-Mobile AT
+43	5	Orange AT
+43	6	Orange AT
+43	7	tele.ring
+43	9	Tele2Mobil
+43	10	3AT
+43	11	bob
+43	12	yesss!
+43	15	Vectone
+43	91	GSM-R A
+994	1	Azercell
+994	2	Bakcell
+994	3	FONEX
+994	4	Nar Mobile
+1 242	39	BaTelCo
+973	1	Batelco
+973	2	zain BH
+973	4	VIVA Bahrain
+973	5	Batelco
+880	1	Grameenphone
+880	2	Robi
+880	3	Banglalink
+880	4	TeleTalk
+880	5	Citycell
+880	6	Beeong3G Warid Telekom
+880	7	Airtel
+1 246	600	LIME
+1 246	750	Digicel
+375	1	velcom
+375	2	MTS
+375	3	DIALLOG
+375	4	life:)
+375	501	BelCel JV
+32	1	Proximus
+32	5	Telenet
+32	6	Lycamobile
+32	7	Vectone Mobile
+32	9	Voxbone
+32	10	Mobistar
+32	20	BASE
+501	67	DigiCell
+501	68	INTELCO
+501	99	Smart
+229	1	Libercom
+229	2	Moov
+229	3	MTN
+229	4	BBCOM
+229	4	BLK
+229	5	Glo
+1 441	59	Cellular One
+1 441	50	Digicel Bermuda
+1 441	0	CellOne
+1 441	1	Digicel Bermuda
+1 441	2	Mobility
+975	11	B-Mobile
+975	77	TashiCell
+591	1	Nuevatel
+591	2	Entel
+591	3	Tigo
+387	3	HT-ERONET
+387	5	m:tel
+387	90	BH Mobile
+267	1	Mascom
+267	2	Orange
+267	4	BTC Mobile
+55	0	Nextel
+55	2	TIM
+55	3	TIM
+55	4	TIM
+55	5	Claro BR
+55	55	Sercomtel
+55	6	Vivo
+55	10	Vivo
+55	11	Vivo
+55	15	CTBC Celular
+55	16	Brasil Telecom GSM
+55	23	Vivo
+55	31	Oi
+55	32	CTBC Celular
+55	33	CTBC Celular
+55	34	CTBC Celular
+55	39	Nextel
+1 284	170	LIME
+1 284	570	CCT Boatphone
+1 284	770	Digicel
+673	2	B-Mobile
+673	11	DSTCom
+359	1	M-Tel
+359	3	Vivacom
+359	5	GLOBUL
+359	7	НКЖИ
+359	9	COMPATEL LIMITED
+359	11	Bulsatcom
+359	13	Max Telecom
+226	1	Telmob
+226	2	Airtel
+226	3	Telecel Faso
+257	1	Spacetel
+257	2	Tempo
+257	3	Onatel
+257	7	Smart Mobile
+257	8	HiTs Telecom
+257	82	Leo
+855	1	Cellcard
+855	2	Smart
+855	3	qb
+855	4	qb
+855	5	Smart
+855	6	Smart
+855	8	Cellcard
+855	9	Beeline
+855	11	Excell
+855	18	Cellcard
+237	1	MTN Cameroon
+237	2	Orange
+1	220	Telus
+1	221	Telus
+1	222	Telus
+1	250	ALO[disambiguation needed]
+1	270	EastLink
+1	290	Airtel Wireless
+1	320	Mobilicity
+1	340	Execulink
+1	350	FIRST
+1	360	MiKe
+1	361	Telus
+1	370	Fido
+1	380	DMTS
+1	480	SSi Connexions
+1	490	WIND Mobile
+1	500	Videotron
+1	510	Videotron
+1	530	Keewatinook Okimakanak Mobile
+1	560	Lynx Mobility
+1	570	LightSquared
+1	590	Quadro Communication
+1	610	Bell
+1	620	ICE Wireless
+1	630	Aliant Mobility
+1	640	Bell
+1	653	Telus
+1	655	MTS
+1	656	TBay
+1	657	Telus
+1	660	MTS
+1	670	CityTel Mobility
+1	680	SaskTel
+1	690	Bell
+1	710	Globalstar
+1	720	Rogers Wireless
+1	730	TerreStar Solutions
+1	740	Shaw Telecom G.P.
+1	750	SaskTel
+1	760	Public Mobile Inc.
+1	770	Rural Com
+1	780	SaskTel
+1	860	Telus
+1	880	Bell / Telus / SaskTel
+1	940	Wightman Telecom
+238	1	CVMOVEL
+238	2	T+
+1 345	140	LIME
+1 345	50	Digicel
+236	1	CTP
+236	2	TC
+236	3	Orange
+236	4	Nationlink
+235	1	Airtel
+235	2	Tchad Mobile
+235	2	Tawali
+235	3	Tigo
+235	4	Salam
+56	1	entel
+56	2	movistar
+56	3	Claro
+56	4	Nextel
+56	7	Virgin Mobile
+56	8	VTR Móvil
+56	9	Nextel
+56	10	entel
+56	99	Will
+86	0	China Mobile
+86	1	China Unicom
+86	2	China Mobile
+86	3	China Telecom
+86	5	China Telecom
+86	6	China Unicom
+86	7	China Mobile
+86	20	China Tietong
+57	2	Edatel
+57	99	EMCALI
+57	101	Claro
+57	102	movistar
+57	103	Tigo
+57	111	Tigo
+57	123	movistar
+57	130	AVANTEL
+242	1	Airtel
+242	10	Libertis Telecom
+506	1	Kolbi ICE
+506	2	Kolbi ICE
+506	3	Claro
+506	4	movistar
+506	20	fullmóvil
+385	1	T-Mobile
+385	2	Tele2
+385	10	Vip
+53	1	CUBACEL
+357	1	Cytamobile-Vodafone
+357	10	MTN
+357	20	PrimeTel
+357	22	lemontel
+420	1	T-Mobile
+420	2	O2
+420	3	Vodafone
+420	4	U:fon
+420	99	Vodafone
+243	1	Vodacom
+243	2	airtel
+243	5	Supercell
+243	10	Libertis Telecom
+243	86	Orange
+243	88	YTT
+243	89	Tigo
+243	90	Africell
+45	1	TDC
+45	2	Telenor
+45	3	End2End
+45	5	TetraNet
+45	6	3
+45	7	Vectone Mobile
+45	8	Voxbone
+45	9	SINE
+45	10	TDC
+45	11	SINE
+45	12	Lycamobile
+45	20	Telia
+45	23	GSM-R DK
+45	77	Telenor
+253	1	Evatis
+1 767	20	Digicel
+1 809	1	Orange
+1 809	2	Claro
+1 809	3	Tricom
+1 809	4	Viva
+670	1	Telin Telkomcel
+593	0	Movistar
+593	1	Claro
+593	2	CNT Mobile
+20	1	Mobinil
+20	2	Vodafone
+20	3	Etisalat
+503	1	CTE Telecom Personal, Claro
+503	2	digicel
+503	3	Tigo
+503	4	movistar
+240	1	Orange GQ
+240	3	Hits GQ
+291	1	Eritel
+372	1	EMT
+372	2	Elisa
+372	3	Tele 2
+372	8	VIVEX
+251	1	ETH-MTN
+298	1	Faroese Telecom
+298	2	Vodafone
+679	1	Vodafone
+679	2	Digicel
+358	3	DNA
+358	4	AINA
+358	5	Elisa
+358	7	Nokia
+358	8	Nokia
+358	9	Finnet Group / Nokia Solutions and Networks
+358	10	TDC
+358	11	Vectone Mobile
+358	12	DNA
+358	13	DNA
+358	14	Ålcom
+358	15	SAMK
+358	21	Saunalahti
+358	25	Datame
+358	26	Compatel
+358	30	Vectone Mobile
+358	31	Ukko Mobile
+358	32	Voxbone
+358	91	Sonera
+33	1	Orange
+33	2	Orange
+33	3	MobiquiThings
+33	4	Sisteer
+33	8	Completel Mobile
+33	9	SFR
+33	10	SFR
+33	11	SFR
+33	13	SFR
+33	14	RFF
+33	15	Free Mobile
+33	16	Free Mobile
+33	17	LEGOS
+33	18	Voxbone
+33	20	Bouygues
+33	21	Bouygues
+33	22	Transatel Mobile
+33	23	Virgin Mobile (MVNO)
+33	24	MobiquiThings
+33	25	LycaMobile
+33	26	NRJ Mobile (MVNO)
+33	31	Vectone
+33	88	Bouygues
+33	92	Com4Innov
+689	15	Vodafone
+689	20	Vini
+241	1	Libertis
+241	2	Moov
+241	3	Airtel
+241	4	Azur
+241	5	RAG
+220	1	Gamcel
+220	2	Africel
+220	3	Comium
+220	4	QCell
+995	1	Geocell
+995	2	MagtiCom
+995	3	MagtiCom
+995	4	Beeline
+995	5	Silknet
+49	1	Telekom
+49	2	Vodafone
+49	3	E-Plus
+49	4	Vodafone
+49	5	E-Plus
+49	6	T-Mobile
+49	7	O2
+49	8	O2
+49	9	Vodafone
+49	11	O2
+49	12	Dolphin Telecom / sipgate
+49	15	Airdata
+49	16	Telogic ex. Vistream
+49	20	OnePhone
+49	42	CCC Event
+49	43	LYCA
+49	77	E-Plus
+49	78	T-Mobile
+49	901	Debitel
+233	1	MTN
+233	2	Vodafone
+233	3	tiGO
+233	4	Expresso
+233	6	Airtel
+233	7	Globacom
+350	1	GibTel
+350	6	CTS Mobile
+350	9	Shine
+30	1	Cosmote
+30	2	Cosmote
+30	5	Vodafone
+30	9	Wind
+30	10	Wind
+1 473	30	Digicel
+1 473	110	Cable & Wireless
+null	1	Orange
+null	2	Outremer
+null	3	Telcell
+null	8	Dauphin
+null	20	Digicel
+1 671	32	IT&E Wireless
+1 671	140	mPulse
+1 671	250	i CAN_GSM
+1 671	370	Docomo
+1 671	470	Docomo
+502	1	Claro
+502	2	Tigo
+502	3	movistar
+502	 ?	digicel
+502	 ?	RED/INTELFON
+null	3	Airtel Vodafone
+null	50	Wave Telecom
+null	55	Sure Mobile
+224	1	Orange S.A.
+224	2	Sotelgui
+224	3	Telecel Guinee
+224	4	MTN
+224	5	Cellcom
+245	1	Guinetel
+245	2	MTN Areeba
+245	3	Orange
+245	7	Guinetel
+592	1	Digicel
+592	2	GT&T Cellink Plus
+509	1	Voila
+509	2	Digicel
+509	3	Natcom
+504	1	Claro
+504	2	Tigo
+504	30	Hondutel
+504	40	Digicel
+852	0	1O1O / One2Free / New World Mobility
+852	3	3
+852	4	3 (2G)
+852	5	3 (CDMA)
+852	6	SmarTone
+852	8	Truphone
+852	10	New World Mobility
+852	12	CMCC HK
+852	13	CMCC HK
+852	16	PCCW Mobile (2G)
+852	19	PCCW Mobile (3G/4G)
+852	22	P Plus
+852	29	PCCW Mobile (CDMA)
+36	1	Telenor
+36	20	Telenor
+36	30	T-Mobile
+36	70	Vodafone
+36	71	UPC Hungary
+354	1	Síminn
+354	2	Vodafone
+354	3	Vodafone
+354	4	Viking
+354	7	IceCell
+354	8	On-waves
+354	11	Nova
+354	12	Tal
+91	1	Vodafone IN
+91	2	AirTel
+91	3	AirTel
+91	4	IDEA
+91	5	Vodafone IN
+91	7	IDEA
+91	9	Reliance
+91	10	AirTel
+91	11	Vodafone IN
+91	12	IDEA
+91	13	Vodafone IN
+91	14	IDEA
+91	15	Vodafone IN
+91	16	Airtel
+91	17	AIRCEL
+91	18	Reliance
+91	19	IDEA
+91	20	Vodafone IN
+91	21	Loop Mobile
+91	22	IDEA
+91	24	IDEA
+91	25	AIRCEL
+91	27	Vodafone IN
+91	28	AIRCEL
+91	29	AIRCEL
+91	30	Vodafone IN
+91	31	AirTel
+91	34	CellOne
+91	36	Reliance
+91	37	Aircel
+91	38	CellOne
+91	40	AirTel
+91	41	Aircel
+91	42	Aircel
+91	43	Vodafone IN
+91	44	IDEA
+91	45	Airtel
+91	46	Vodafone IN
+91	48	Dishnet Wireless
+91	49	Airtel
+91	50	Reliance
+91	51	CellOne
+91	52	Reliance
+91	53	CellOne
+91	54	CellOne
+91	55	CellOne
+91	56	IDEA
+91	57	CellOne
+91	58	CellOne
+91	59	CellOne
+91	60	Vodafone IN
+91	62	CellOne
+91	64	CellOne
+91	66	CellOne
+91	67	Reliance
+91	68	DOLPHIN
+91	69	DOLPHIN
+91	70	AirTel
+91	71	CellOne
+91	72	CellOne
+91	73	CellOne
+91	74	CellOne
+91	75	CellOne
+91	76	CellOne
+91	77	CellOne
+91	78	Idea Cellular Ltd
+91	79	CellOne
+91	80	CellOne
+91	81	CellOne
+91	82	Idea
+91	83	Reliance
+91	84	Vodafone IN
+91	85	Reliance
+91	86	Vodafone IN
+91	87	IDEA
+91	88	Vodafone IN
+91	89	Idea
+91	90	AirTel
+91	91	AIRCEL
+91	92	AirTel
+91	93	AirTel
+91	94	AirTel
+91	95	AirTel
+91	96	AirTel
+91	97	AirTel
+91	98	AirTel
+91	1	Reliance
+91	25	TATA DOCOMO
+91	26	TATA DOCOMO
+91	27	TATA DOCOMO
+91	28	TATA DOCOMO
+91	29	TATA DOCOMO
+91	3	Reliance
+91	30	TATA DOCOMO
+91	31	TATA DOCOMO
+91	32	TATA DOCOMO
+91	33	TATA DOCOMO
+91	34	TATA DOCOMO
+91	35	TATA DOCOMO
+91	36	TATA DOCOMO
+91	37	TATA DOCOMO
+91	38	TATA DOCOMO
+91	39	TATA DOCOMO
+91	4	Reliance
+91	41	TATA DOCOMO
+91	42	TATA DOCOMO
+91	43	TATA DOCOMO
+91	44	TATA DOCOMO
+91	45	TATA DOCOMO
+91	46	TATA DOCOMO
+91	47	TATA DOCOMO
+91	5	Reliance
+91	6	Reliance
+91	7	Reliance
+91	8	Reliance
+91	9	Reliance
+91	10	Reliance
+91	11	Reliance
+91	12	Reliance
+91	13	Reliance
+91	14	Reliance
+91	15	Reliance
+91	17	Reliance
+91	18	Reliance
+91	19	Reliance
+91	20	Reliance
+91	21	Reliance
+91	22	Reliance
+91	23	Reliance
+91	51	AirTel
+91	52	AirTel
+91	53	AirTel
+91	54	AirTel
+91	55	Airtel
+91	56	AirTel
+91	66	Vodafone IN
+91	67	Vodafone IN
+91	70	IDEA
+91	750	Vodafone IN
+91	751	Vodafone IN
+91	752	Vodafone IN
+91	753	Vodafone IN
+91	754	Vodafone IN
+91	755	Vodafone IN
+91	756	Vodafone IN
+91	799	IDEA
+91	800	AIRCEL
+91	801	AIRCEL
+91	802	AIRCEL
+91	803	AIRCEL
+91	804	AIRCEL
+91	805	AIRCEL
+91	806	AIRCEL
+91	807	AIRCEL
+91	808	AIRCEL
+91	809	AIRCEL
+91	810	AIRCEL
+91	811	AIRCEL
+91	812	AIRCEL
+91	819	Uninor
+91	818	Uninor
+91	820	Uninor
+91	821	Uninor
+91	822	Uninor
+91	824	Videocon Datacom
+91	827	Videocon Datacom
+91	834	Videocon Datacom
+91	844	Uninor
+91	840	Jio
+91	845	IDEA
+91	846	IDEA
+91	847	IDEA
+91	848	IDEA
+91	849	IDEA
+91	850	IDEA
+91	851	IDEA
+91	852	IDEA
+91	853	IDEA
+91	854	Jio
+91	855	Jio
+91	856	Jio
+91	857	Jio
+91	858	Jio
+91	859	Jio
+91	860	Jio
+91	861	Jio
+91	862	Jio
+91	863	Jio
+91	864	Jio
+91	865	Jio
+91	866	Jio
+91	867	Jio
+91	868	Jio
+91	869	Jio
+91	870	Jio
+91	871	Jio
+91	872	Jio
+91	873	Jio
+91	874	Jio
+91	875	Uninor
+91	880	Uninor
+91	881	S Tel
+91	908	IDEA
+91	909	IDEA
+91	910	IDEA
+91	911	IDEA
+91	912	Etisalat DB(cheers)
+91	913	Etisalat DB(cheers)
+91	914	Etisalat DB(cheers)
+91	917	Etisalat DB(cheers)
+91	927	Uninor
+91	929	Uninor
+62	0	PSN
+62	1	INDOSAT
+62	3	StarOne
+62	7	TelkomFlexi
+62	8	AXIS
+62	9	SMARTFREN
+62	10	Telkomsel
+62	11	XL
+62	20	TELKOMMobile
+62	21	IM3
+62	27	Ceria
+62	28	Fren/Hepi
+62	89	3
+62	99	Esia
+62	995	Komselindo
+62	996	Komselindo
+98	11	IR-MCI
+98	14	TKC
+98	19	MTCE
+98	20	Rightel
+98	32	Taliya
+98	35	Irancell
+98	70	TCI
+98	93	Iraphone
+964	5	Asia Cell
+964	8	SanaTel
+964	20	Zain
+964	30	Zain
+964	40	Korek
+964	45	Mobitel
+964	62	Itisaluna
+964	92	Omnnea
+353	1	Vodafone
+353	2	O2
+353	3	Meteor
+353	5	3
+353	7	eMobile
+353	11	Tesco Mobile
+353	13	Lycamobile
+44	9	Sure Mobile
+44	58	Pronto GSM
+44	 ?	Cloud 9 Mobile
+972	1	Orange
+972	2	Cellcom
+972	3	Pelephone
+972	7	Hot Mobile
+972	8	Golan Telecom
+972	14	Youphone
+972	15	Home Cellular
+972	16	Rami Levy
+972	18	Cellact Communications
+39	1	TIM
+39	2	Elsacom
+39	4	Intermatica
+39	5	Telespazio
+39	7	Noverca
+39	10	Vodafone
+39	30	RFI
+39	34	BT Italia
+39	35	Lyca Italy
+39	77	IPSE 2000
+39	88	Wind
+39	98	Blu
+39	99	3 Italia
+225	2	Moov
+225	3	Orange
+225	4	KoZ
+225	5	MTN
+225	6	ORICEL
+1 876	20	LIME
+1 876	50	Digicel
+1 876	110	LIME
+1 876	180	LIME
+81	0	eMobile
+81	1	NTT docomo
+81	2	NTT docomo
+81	3	NTT docomo
+81	4	SoftBank
+81	6	SoftBank
+81	7	KDDI
+81	8	KDDI
+81	9	NTT docomo
+81	10	NTT docomo
+81	11	NTT docomo
+81	12	NTT docomo
+81	13	NTT docomo
+81	14	NTT docomo
+81	15	NTT docomo
+81	16	NTT docomo
+81	17	NTT docomo
+81	18	NTT docomo
+81	19	NTT docomo
+81	20	SoftBank
+81	21	NTT docomo
+81	22	NTT docomo
+81	23	NTT docomo
+81	24	NTT docomo
+81	25	NTT docomo
+81	26	NTT docomo
+81	27	NTT docomo
+81	28	NTT docomo
+81	29	NTT docomo
+81	30	NTT docomo
+81	31	NTT docomo
+81	32	NTT docomo
+81	33	NTT docomo
+81	34	NTT docomo
+81	35	NTT DoCoMo
+81	36	NTT DoCoMo
+81	37	NTT DoCoMo
+81	38	NTT DoCoMo
+81	39	NTT DoCoMo
+81	40	SoftBank
+81	41	SoftBank
+81	42	SoftBank
+81	43	SoftBank
+81	44	SoftBank
+81	45	SoftBank
+81	46	SoftBank
+81	47	SoftBank
+81	48	SoftBank
+81	49	NTT DoCoMo
+81	50	KDDI
+81	51	KDDI
+81	52	KDDI
+81	53	KDDI
+81	54	KDDI
+81	55	KDDI
+81	56	KDDI
+81	58	NTT DoCoMo
+81	60	NTT DoCoMo
+81	61	NTT DoCoMo
+81	62	NTT DoCoMo
+81	63	NTT DoCoMo
+81	64	NTT DoCoMo
+81	65	NTT DoCoMo
+81	66	NTT DoCoMo
+81	67	NTT DoCoMo
+81	68	NTT DoCoMo
+81	69	NTT DoCoMo
+81	70	au
+81	71	KDDI
+81	72	KDDI
+81	73	KDDI
+81	74	KDDI
+81	75	KDDI
+81	76	KDDI
+81	77	KDDI
+81	79	KDDI
+81	80	TU-KA
+81	81	TU-KA
+81	82	TU-KA
+81	83	TU-KA
+81	84	TU-KA
+81	85	TU-KA
+81	86	TU-KA
+81	87	NTT DoCoMo
+81	88	KDDI
+81	89	KDDI
+81	90	SoftBank
+81	92	SoftBank
+81	93	SoftBank
+81	94	SoftBank
+81	95	SoftBank
+81	96	SoftBank
+81	97	SoftBank
+81	98	SoftBank
+81	99	NTT DoCoMo
+null	3	Airtel Vodafone
+null	50	JT
+null	55	Sure Mobile
+962	1	zain JO
+962	2	XPress Telecom
+962	3	Umniah
+962	77	Orange
+7	1	Beeline
+7	2	Kcell
+7	7	Dalacom
+7	8	Kazakhtelecom
+7	77	Tele2.kz
+254	2	Safaricom
+254	3	Airtel
+254	5	yu
+254	7	Orange Kenya
+686	1	Kiribati TSKL
+686	9	Kiribati Frigate Net
+850	5	Koryolink
+850	193	SunNet
+82	2	KT
+82	3	Power 017
+82	4	KT
+82	5	SKTelecom
+82	6	LG U+
+82	8	olleh
+82	11	SKTelecom
+null	1	Vala
+null	1	Z Mobile
+null	41	IPKO
+null	41	D3 Mobile
+965	2	zain KW
+965	3	Wataniya
+965	4	Viva
+996	1	Beeline
+996	3	Fonex
+996	5	MegaCom
+996	9	O!
+856	1	LTC
+856	2	ETL
+856	3	Unitel
+856	8	Beeline
+371	1	LMT
+371	2	Tele2
+371	3	TRIATEL
+371	5	Bite
+371	7	MTS
+371	8	IZZI
+371	9	Camel Mobile
+961	1	Alfa
+961	3	mtc touch
+961	5	Ogero Mobile
+266	1	Vodacom
+231	1	Lonestar Cell
+231	2	Libercell
+231	4	Comium
+231	7	Cellcom
+231	20	LIBTELCO
+218	0	Libyana
+218	1	Madar
+218	2	Al-Jeel Phone
+218	3	Libya Phone
+218	6	Hatef Libya
+423	1	Swisscom
+423	2	Orange
+423	5	FL1
+423	6	Cubic Telecom
+423	77	Alpmobil
+370	1	Omnitel
+370	2	BITĖ
+370	3	Tele 2
+370	5	LitRail
+370	6	Mediafon
+352	1	POST
+352	77	Tango
+352	99	Orange
+853	0	SmarTone
+853	1	CTM
+853	2	China Telecom
+853	3	3
+853	4	CTM
+853	5	3
+389	1	T-Mobile MK
+389	2	ONE
+389	3	Vip MK
+261	1	Airtel
+261	2	Orange
+261	3	Sacel
+261	4	Telma
+265	1	TNM
+265	10	Airtel
+60	1	ATUR 450
+60	11	TM Homeline
+60	12	Maxis
+60	13	Celcom
+60	150	Tune Talk
+60	152	Yes
+60	156	Altel
+60	16	DiGi
+60	17	Hotlink
+60	18	U Mobile
+60	18	TM Homeline
+60	19	Celcom
+60	12	Kartu As
+960	1	Dhiraagu
+960	2	Ooredoo
+223	1	Malitel
+223	2	Orange
+356	1	Vodafone
+356	21	GO
+356	77	Melita
+null	1	Orange
+null	2	Outremer
+null	20	Digicel
+222	1	Mattel
+222	2	Chinguitel
+222	10	Mauritel
+230	1	Orange
+230	2	MTML
+230	10	Emtel
+52	1	Nextel
+52	2	Telcel
+52	3	movistar
+52	5	Iusacell / Unefon
+52	5	Iusacell
+52	9	Nextel
+373	1	Orange
+373	2	Moldcell
+373	3	IDC
+373	3	Unité
+373	4	Eventis
+373	5	Unité
+373	99	Unité
+377	1	Office des Telephones
+976	88	Unitel
+976	91	Skytel
+976	98	G.Mobile
+976	99	MobiCom
+382	1	Telenor
+382	2	T-Mobile
+382	3	m:tel CG
+382	4	T-Mobile
+1 664	860	Cable & Wireless
+212	0	Méditel
+212	1	IAM
+212	2	Wana Corporate
+212	5	INWI
+258	1	mCel
+258	3	Movitel
+258	4	Vodacom
+95	1	MPT
+264	1	MTC
+264	2	switch
+264	3	TN Mobile
+674	2	Digicel
+977	1	Namaste / NT Mobile
+977	2	Ncell
+977	3	Sky/C-Phone
+977	4	SmartCell
+31	2	Tele2
+31	3	Voiceworks
+31	4	Vodafone
+31	6	Vectone Mobile Delight Mobile
+31	8	KPN
+31	9	Lycamobile
+31	10	KPN
+31	12	Telfort
+31	15	Ziggo
+31	16	T-Mobile (BEN)
+31	17	Intercity Zakelijk
+31	20	T-Mobile
+31	62	Voxbone
+599	51	Telcell
+599	69	Digicel
+599	91	UTS
+599	94	Bayòs
+599	95	MIO
+687	1	Mobilis
+64	0	Telecom
+64	1	Vodafone
+64	2	Telecom
+64	3	Woosh
+64	4	TelstraClear
+64	5	XT Mobile Network
+64	6	Skinny
+64	24	2degrees
+505	21	Claro
+505	30	movistar
+505	73	SERCOM
+227	1	SahelCom
+227	2	Airtel
+227	3	Moov
+227	4	Orange
+234	20	Airtel
+234	25	Visafone
+234	30	MTN
+234	40	M-Tel
+234	50	Glo
+234	60	Etisalat
+683	1	Telecom Niue
+null	10	Norfolk Telecom
+47	1	Telenor
+47	2	NetCom
+47	3	Teletopia
+47	4	Tele2
+47	5	Network Norway
+47	6	Ice
+47	7	Ventelo
+47	8	TDC
+47	9	Com4
+47	11	SystemNet
+47	12	Telenor
+47	23	Lyca
+968	2	Oman Mobile
+968	3	Nawras
+92	1	Mobilink
+92	3	Ufone
+92	4	Zong
+92	6	Telenor
+92	7	Warid Pakistan
+680	1	PNCC
+680	80	Palau Mobile
+null	5	Jawwal
+null	6	Wataniya
+507	1	Cable & Wireless
+507	2	movistar
+507	3	Claro
+507	4	Digicel
+675	1	bmobile
+675	3	Digicel
+595	1	VOX
+595	2	Claro/Hutchison
+595	4	Tigo
+595	5	Personal
+595	6	Copaco
+51	6	Movistar
+51	7	NEXTEL
+51	10	Claro (TIM)
+51	15	Viettel Mobile
+51	17	NEXTEL
+63	1	Islacom
+63	2	Globe
+63	3	Smart
+63	5	Sun
+63	18	Cure
+63	24	ABS-CBN
+48	1	Plus
+48	2	T-Mobile
+48	3	Orange
+48	6	Play
+48	7	Netia
+48	9	Lycamobile
+48	10	Sferia
+48	11	Nordisk Polska
+48	12	Cyfrowy Polsat
+48	13	Sferia
+48	14	Sferia
+48	15	CenterNet
+48	16	Mobyland
+48	17	Aero2
+48	32	Voxbone
+351	1	Vodafone
+351	3	Optimus
+351	4	LycaMobile
+351	6	TMN
+351	7	Vectonemobile Delightmobile
+351	21	Zapp
+1	0	Open Mobile
+1	110	Claro Puerto Rico
+1	120	Open Mobile
+974	1	ooredoo
+974	2	Vodafone
+974	5	Ministry of Interior
+974	6	Ministry of Interior
+null	0	Orange
+null	2	Outremer
+null	10	SFR Reunion
+40	1	Vodafone
+40	2	Romtelecom
+40	3	Cosmote
+40	4	Cosmote/Zapp
+40	5	Digi.Mobil
+40	6	Cosmote/Zapp
+40	10	Orange
+7	1	MTS
+7	2	MegaFon
+7	3	NCC
+7	4	Sibchallenge
+7	5	ETK
+7	6	Skylink
+7	7	SMARTS
+7	9	Skylink
+7	10	DTC
+7	11	Yota
+7	12	Baykalwestcom
+7	12	Akos
+7	13	KUGSM
+7	14	MegaFon
+7	15	SMARTS
+7	16	NTC
+7	17	Utel
+7	18	Osnova Telecom
+7	19	INDIGO
+7	20	Tele2
+7	23	Mobicom Novosibirsk
+7	28	Beeline
+7	35	MOTIV
+7	38	Tambov GSM
+7	39	Rostelecom
+7	50	MTS
+7	91	Sonic Duo
+7	99	Beeline
+250	10	MTN
+250	12	Rwandatel
+250	13	Tigo
+250	14	Airtel
+1 869	50	Digicel
+1 869	70	Chippie
+1 869	110	LIME
+1 758	50	Digicel[citation needed]
+508	1	Ameris
+508	2	GLOBALTEL
+1 784	70	Digicel
+1 784	100	Cingular Wireless
+1 784	110	Lime
+685	1	Digicel
+685	27	Bluesky
+378	1	PRIMA
+239	1	CSTmovel
+966	1	Al Jawal (STC )
+966	3	Mobily
+966	4	Zain SA
+966	21	RGSM
+221	1	Orange
+221	2	Tigo
+221	3	Expresso
+381	1	Telenor
+381	2	Telenor
+381	3	mt:s
+381	5	VIP
+248	1	Cable & Wireless
+248	2	Mediatech International
+248	10	Airtel
+232	1	Airtel
+232	3	Africell
+232	4	Comium
+232	5	Africell
+232	6	SierraTel
+232	25	Mobitel
+232	 ?	GreenNet
+65	1	SingTel
+65	2	SingTel-G18
+65	3	M1
+65	5	StarHub
+65	6	StarHub
+65	7	SingTel
+65	12	Grid
+421	1	Orange
+421	2	Telekom
+421	4	T-Mobile
+421	6	O2
+421	99	ŽSR
+386	31	Mobitel
+386	40	Si.mobil
+386	41	Mobitel
+386	51	Mobitel
+386	64	T-2
+386	70	Tušmobil
+677	1	BREEZE
+677	2	BeMobile
+252	1	Telesom
+252	4	SomaCyber
+252	4	Somafone
+252	10	Nationlink
+252	50	Hormuud
+252	30	Golis
+252	57	Unittel
+252	60	Nationlink Telecom
+252	71	Somtel
+252	82	Telcom
+27	1	Vodacom
+27	2	Telkom Mobile / 8.ta / Telekom SA
+27	6	Sentech
+27	7	Cell C
+27	10	MTN
+27	13	Neotel
+27	14	Neotel
+27	19	iBurst
+null	2	MTN
+null	3	Gemtel
+null	4	Vivacell
+null	6	Zain
+null	7	Sudani
+34	1	Vodafone
+34	3	Orange
+34	4	Yoigo
+34	5	TME
+34	6	Vodafone
+34	7	movistar
+34	8	Euskaltel
+34	9	Orange
+34	15	BT
+34	16	TeleCable
+34	17	Móbil R
+34	18	ONO
+34	19	Simyo
+34	20	Fonyou
+34	21	Jazztel
+34	22	DigiMobil
+34	23	Barablu
+34	24	Eroski
+34	25	Lycamobile
+94	1	Mobitel
+94	2	Dialog
+94	3	Etisalat
+94	4	Lanka Bell
+94	5	Airtel
+94	8	Hutch
+94	11	Dialog
+94	17	Dialog
+249	1	Zain SD
+249	2	MTN
+249	5	Canar Telecom
+249	7	Sudani One
+249	9	Privet Network
+597	2	Telesur
+597	3	Digicel
+597	4	Uniqa
+268	10	Swazi MTN
+46	1	Telia
+46	2	3
+46	3	Net 1
+46	4	SWEDEN
+46	5	Sweden 3G
+46	6	Telenor
+46	7	Tele2
+46	8	Telenor
+46	9	djuice
+46	10	Spring Mobil
+46	12	Lycamobile
+46	17	Gotanet
+46	19	Vectone Mobile / Delight Mobile
+46	21	MobiSir
+46	24	Sweden 2G
+46	38	Voxbone
+41	1	Swisscom
+41	2	Sunrise
+41	3	Orange
+41	6	SBB-CFF-FFS
+41	7	IN&Phone
+41	8	Tele4u
+41	52	Barablu
+963	1	Syriatel
+963	2	MTN
+886	1	FarEasTone
+886	5	APTG
+886	6	FarEasTone
+886	11	Chunghwa LDM
+886	88	FarEasTone
+886	89	VIBO
+886	92	Chungwa
+886	93	MobiTai
+886	97	Taiwan Mobile
+886	99	TransAsia
+992	1	Tcell
+992	2	Tcell
+992	3	Megafon Tajikistan
+992	4	Babilon-M
+992	5	Beeline
+992	12	Tcell
+255	2	tiGO
+255	3	Zantel
+255	4	Vodacom
+255	5	Airtel
+255	6	Sasatel
+255	7	TTCL Mobile
+255	8	Benson Online (BOL)
+255	9	Hits
+255	11	SmileCom
+66	0	my by CAT
+66	1	AIS
+66	2	CAT CDMA
+66	3	AIS 3G
+66	4	truemove H 4G LTE
+66	5	dtac TriNet
+66	10	 ?
+66	15	TOT 3G
+66	18	dtac
+66	23	AIS GSM 1800
+66	25	WE PCT
+66	99	truemove
+228	1	Togo Cell
+228	3	Moov
+676	1	U-Call
+676	88	Digicel
+1 868	12	bmobile
+1 868	130	Digicel
+216	1	Orange
+216	2	Tunicell
+216	3	Tunisiana
+90	1	Turkcell
+90	2	Vodafone
+90	3	Avea
+993	1	MTS (BARASH Communication)
+993	2	TM-Cell
+1 649	50	Digicel
+1 649	350	C&W
+1 649	352	Islandcom
+688	1	TTC
+256	1	Airtel
+256	10	MTN
+256	11	UTL ( Telecom Limited)
+256	14	Orange
+256	22	Warid Telecom
+256	33	Smile
+256	44	K2
+256	66	i-Tel
+380	1	MTS
+380	2	Beeline
+380	3	Kyivstar
+380	4	IT
+380	5	Golden Telecom
+380	6	life:)
+380	7	3Mob
+380	21	PEOPLEnet
+380	23	CDMA Ukraine
+380	25	NEWTONE
+971	2	Etisalat
+971	3	du
+44	0	BT
+44	1	Vectone Mobile
+44	2	O2 (UK)
+44	3	Airtel-Vodafone
+44	4	FMS Solutions Ltd
+44	10	O2 (UK)
+44	11	O2 (UK)
+44	12	Railtrack
+44	13	Railtrack
+44	14	Hay Systems Ltd
+44	15	Vodafone UK
+44	16	Talk Talk
+44	18	Cloud9
+44	19	Private Mobile Networks PMN
+44	20	3
+44	22	RoutoMessaging
+44	24	Greenfone
+44	25	Truphone
+44	26	Lycamobile
+44	29	aql
+44	30	T-Mobile UK
+44	31	Virgin Mobile UK
+44	32	Virgin Mobile UK
+44	33	Orange (UK)
+44	34	Orange (UK)
+44	38	Virgin Mobile UK
+44	50	JT
+44	51	UK Broadband
+44	76	BT
+44	78	Airwave
+44	3	UK Broadband
+44	77	BT
+1	4	Verizon
+1	5	Verizon
+1	13	MobileTel
+1	16	Cricket Communications
+1	26	T-Mobile
+1	30	AT&T
+1	34	Airpeak
+1	40	Concho
+1	46	SIMMETRY
+1	80	Corr
+1	90	Cricket Communications
+1	100	Plateau Wireless
+1	110	PTI Pacifica
+1	120	Sprint
+1	150	AT&T
+1	170	AT&T
+1	180	West Central
+1	190	Dutch Harbor
+1	280	AT&T
+1	300	Big Sky Mobile
+1	320	Cellular One
+1	330	T-Mobile
+1	340	Westlink
+1	380	AT&T
+1	390	Cellular One of East Texas
+1	400	i CAN_GSM
+1	410	AT&T
+1	420	Cincinnati Bell
+1	440	Cellular One
+1	450	Viaero
+1	460	Simmetry
+1	470	nTelos
+1	490	T-Mobile
+1	500	Alltel
+1	510	Airtel
+1	520	VeriSign
+1	540	Oklahoma Western
+1	560	AT&T
+1	570	Cellular One
+1	580	T-Mobile
+1	590	Alltel
+1	610	Epic Touch
+1	620	Coleman County Telecom
+1	630	AmeriLink PCS
+1	640	Airadigm
+1	650	Jasper
+1	660	T-Mobile
+1	670	Northstar
+1	680	AT&T
+1	690	Immix
+1	730	SeaMobile
+1	740	Convey
+1	750	Appalachian Wireless
+1	760	Panhandle
+1	770	i wireless
+1	790	PinPoint
+1	830	Caprock
+1	840	telna Mobile
+1	850	Aeris
+1	870	PACE
+1	880	Advantage
+1	890	Unicel
+1	900	Mid-Rivers Wireless
+1	910	First Cellular
+1	950	XIT Wireless
+1	960	Plateau Wireless
+1	970	Globalstar
+1	980	AT&T
+1	990	AT&T
+1	10	Chariton Valley
+1	12	Verizon
+1	60	Farmers Cellular
+1	70	Easterbrooke
+1	80	Pine Cellular
+1	90	Long Lines Wireless
+1	140	Sprocket
+1	170	PetroCom
+1	330	Bug Tussel Wireless
+1	480	Verizon
+1	481-489	Verizon
+1	490	Sprint Corporation
+1	660	metroPCS
+1	870	Boost
+1	960	Lycamobile
+1	970	Big River Broadband
+1	590	NMU
+1	100	700 MHz Public Safety Broadband
+1	101-199	700 MHz Public Safety Broadband
+1	10	Nextel
+598	1	Antel
+598	7	Movistar
+598	10	Claro
+998	4	Beeline
+998	5	Ucell
+998	6	Perfectum Mobile
+998	7	MTS
+998	3	UzMobile
+678	0	AIL
+678	1	SMILE
+678	5	Digicel
+678	7	WanTok
+58	1	Digitel
+58	2	Digitel GSM
+58	3	Digitel
+58	4	movistar
+58	6	Movilnet
+84	1	MobiFone
+84	2	Vinaphone
+84	3	S-Fone
+84	4	Viettel Mobile
+84	5	Vietnamobile (HT Mobile )
+84	6	EVNTelecom
+84	7	G-Mobile
+84	8	3G EVNTelecom
+967	1	SabaFon
+967	2	MTN
+967	3	Yemen Mobile
+967	4	HiTS-UNITEL
+260	1	Airtel
+260	2	MTN
+260	3	ZAMTEL
+263	1	Net*One
+263	3	Telecel
+263	4	Econet
+263	1	ICO
+263	3	Iridium
+263	10	ACeS
+263	11	Inmarsat
+263	12	Telenor
+263	13	GSM.AQ
+263	15	OnAir
+263	17	Navitas
+263	18	Cellular @Sea
+263	24	iNum
+263	26	TIM
+263	27	OnAir
+263	28	Vodafone
+263	29	Telenor
+263	31	Orange
+263	32	Sky High
