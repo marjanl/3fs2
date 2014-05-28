@@ -40,7 +40,7 @@ class CountryCode
     private $values;
 
     const CODES_FILE = 'CountryCodes.txt';
-    const MNO_FILE = 'MNO_2.txt';
+    const MNO_FILE = 'MNO.txt';
 
     public function __construct()
     {
