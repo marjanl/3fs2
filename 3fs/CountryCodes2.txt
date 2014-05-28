@@ -1,0 +1,5 @@
+#SOURCE http://countrycode.org/#
+Slovenia	SI / SVN	386
+Austria	AT / AUT	43
+Chile	CL / CHL	56
+

@@ -1,0 +1,29 @@
+#source http://en.wikipedia.org/wiki/Mobile_country_code
+386	31	Mobitel
+386	40	Si.mobil
+386	41	Mobitel
+386	51	Mobitel
+386	64	T-2
+386	70	Tušmobil
+43	1	A1 TA
+43	3	T-Mobile AT
+43	4	T-Mobile AT
+43	5	Orange AT
+43	6	Orange AT
+43	7	tele.ring
+43	9	Tele2Mobil
+43	10	3AT
+43	11	bob
+43	12	yesss!
+43	15	Vectone
+43	91	GSM-R A
+56	1	entel
+56	2	movistar
+56	3	Claro
+56	4	Nextel
+56	7	Virgin Mobile
+56	8	VTR Móvil
+56	9	Nextel
+56	10	entel
+56	99	Will
+
