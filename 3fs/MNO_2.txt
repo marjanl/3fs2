@@ -79,7 +79,7 @@
 994	2	Bakcell
 994	3	FONEX
 994	4	Nar Mobile
-1 242	39	BaTelCo
+1242	39	BaTelCo
 973	1	Batelco
 973	2	zain BH
 973	4	VIVA Bahrain
