@@ -15,14 +15,14 @@
 213	1	Mobilis
 213	2	Djezzy
 213	3	Ooredoo
-1 684	11	Bluesky
+1684	11	Bluesky
 376	3	Mobiland
 244	2	UNITEL
 244	4	MOVICEL
-1 264	840	LIME
-1 268	30	APUA
-1 268	50	Digicel
-1 268	920	LIME
+1264	840	LIME
+1268	30	APUA
+1268	50	Digicel
+1268	920	LIME
 54	10	Movistar
 54	20	Nextel
 54	40	Globalstar
@@ -91,8 +91,8 @@
 880	5	Citycell
 880	6	Beeong3G Warid Telekom
 880	7	Airtel
-1 246	600	LIME
-1 246	750	Digicel
+1246	600	LIME
+1246	750	Digicel
 375	1	velcom
 375	2	MTS
 375	3	DIALLOG
@@ -114,11 +114,11 @@
 229	4	BBCOM
 229	4	BLK
 229	5	Glo
-1 441	59	Cellular One
-1 441	50	Digicel Bermuda
-1 441	0	CellOne
-1 441	1	Digicel Bermuda
-1 441	2	Mobility
+1441	59	Cellular One
+1441	50	Digicel Bermuda
+1441	0	CellOne
+1441	1	Digicel Bermuda
+1441	2	Mobility
 975	11	B-Mobile
 975	77	TashiCell
 591	1	Nuevatel
@@ -147,15 +147,15 @@
 55	33	CTBC Celular
 55	34	CTBC Celular
 55	39	Nextel
-1 284	170	LIME
-1 284	570	CCT Boatphone
-1 284	770	Digicel
+1284	170	LIME
+1284	570	CCT Boatphone
+1284	770	Digicel
 673	2	B-Mobile
 673	11	DSTCom
 359	1	M-Tel
 359	3	Vivacom
 359	5	GLOBUL
-359	7	НКЖИ
+359	7	????
 359	9	COMPATEL LIMITED
 359	11	Bulsatcom
 359	13	Max Telecom
@@ -226,8 +226,8 @@
 1	940	Wightman Telecom
 238	1	CVMOVEL
 238	2	T+
-1 345	140	LIME
-1 345	50	Digicel
+1345	140	LIME
+1345	50	Digicel
 236	1	CTP
 236	2	TC
 236	3	Orange
@@ -305,11 +305,11 @@
 45	23	GSM-R DK
 45	77	Telenor
 253	1	Evatis
-1 767	20	Digicel
-1 809	1	Orange
-1 809	2	Claro
-1 809	3	Tricom
-1 809	4	Viva
+1767	20	Digicel
+1809	1	Orange
+1809	2	Claro
+1809	3	Tricom
+1809	4	Viva
 670	1	Telin Telkomcel
 593	0	Movistar
 593	1	Claro
@@ -343,7 +343,7 @@
 358	11	Vectone Mobile
 358	12	DNA
 358	13	DNA
-358	14	Ålcom
+358	14	Alcom
 358	15	SAMK
 358	21	Saunalahti
 358	25	Datame
@@ -425,18 +425,18 @@
 30	5	Vodafone
 30	9	Wind
 30	10	Wind
-1 473	30	Digicel
-1 473	110	Cable & Wireless
+1473	30	Digicel
+1473	110	Cable & Wireless
 null	1	Orange
 null	2	Outremer
 null	3	Telcell
 null	8	Dauphin
 null	20	Digicel
-1 671	32	IT&E Wireless
-1 671	140	mPulse
-1 671	250	i CAN_GSM
-1 671	370	Docomo
-1 671	470	Docomo
+1671	32	IT&E Wireless
+1671	140	mPulse
+1671	250	i CAN_GSM
+1671	370	Docomo
+1671	470	Docomo
 502	1	Claro
 502	2	Tigo
 502	3	movistar
@@ -770,10 +770,10 @@ null	55	Sure Mobile
 225	4	KoZ
 225	5	MTN
 225	6	ORICEL
-1 876	20	LIME
-1 876	50	Digicel
-1 876	110	LIME
-1 876	180	LIME
+1876	20	LIME
+1876	50	Digicel
+1876	110	LIME
+1876	180	LIME
 81	0	eMobile
 81	1	NTT docomo
 81	2	NTT docomo
@@ -938,7 +938,7 @@ null	41	D3 Mobile
 423	6	Cubic Telecom
 423	77	Alpmobil
 370	1	Omnitel
-370	2	BITĖ
+370	2	BITE
 370	3	Tele 2
 370	5	LitRail
 370	6	Mediafon
@@ -1011,7 +1011,7 @@ null	20	Digicel
 382	2	T-Mobile
 382	3	m:tel CG
 382	4	T-Mobile
-1 664	860	Cable & Wireless
+1664	860	Cable & Wireless
 212	0	Méditel
 212	1	IAM
 212	2	Wana Corporate
@@ -1044,7 +1044,7 @@ null	20	Digicel
 599	51	Telcell
 599	69	Digicel
 599	91	UTS
-599	94	Bayòs
+599	94	Bayos
 599	95	MIO
 687	1	Mobilis
 64	0	Telecom
@@ -1185,15 +1185,15 @@ null	10	SFR Reunion
 250	12	Rwandatel
 250	13	Tigo
 250	14	Airtel
-1 869	50	Digicel
-1 869	70	Chippie
-1 869	110	LIME
-1 758	50	Digicel[citation needed]
+1869	50	Digicel
+1869	70	Chippie
+1869	110	LIME
+1758	50	Digicel[citation needed]
 508	1	Ameris
 508	2	GLOBALTEL
-1 784	70	Digicel
-1 784	100	Cingular Wireless
-1 784	110	Lime
+1784	70	Digicel
+1784	100	Cingular Wireless
+1784	110	Lime
 685	1	Digicel
 685	27	Bluesky
 378	1	PRIMA
@@ -1364,8 +1364,8 @@ null	7	Sudani
 228	3	Moov
 676	1	U-Call
 676	88	Digicel
-1 868	12	bmobile
-1 868	130	Digicel
+1868	12	bmobile
+1868	130	Digicel
 216	1	Orange
 216	2	Tunicell
 216	3	Tunisiana
@@ -1374,9 +1374,9 @@ null	7	Sudani
 90	3	Avea
 993	1	MTS (BARASH Communication)
 993	2	TM-Cell
-1 649	50	Digicel
-1 649	350	C&W
-1 649	352	Islandcom
+1649	50	Digicel
+1649	350	C&W
+1649	352	Islandcom
 688	1	TTC
 256	1	Airtel
 256	10	MTN
